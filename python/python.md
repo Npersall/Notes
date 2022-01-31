@@ -1,9 +1,7 @@
-<h1> Python Notes <h1>
+<h1>Python Notes</h1>
 
-basic loop
-
+Basic Loop
 ```
-
 list = [1,2,3,4,5,7,9]
 
 for i in list
