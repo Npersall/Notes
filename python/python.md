@@ -18,8 +18,7 @@ Output:
 9
 ```
 
-
-loop by index
+Loop by index
 
 ```
 list= [1,2,3,4,5,7,9]
@@ -29,4 +28,14 @@ length = len(list)
 for i in range(length):
     print(list[i]
 
+```
+Output:
+```
+1
+2
+3
+4
+5
+7
+9
 ```
